@@ -1,8 +1,3 @@
-//Name: Robert Dittmar   UID: 115378162   Section: 0108
-//
-//I pledge on my honor that I have not given or received any unauthorized 
-//assistance on this assignment/examination.
-//
 //This class is designed to represent a weighted directed graph that is
 //implemented using an adjacency map. There are methods to add and remove
 //vertices and edges and return information about the current object. The two
