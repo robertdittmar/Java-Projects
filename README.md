@@ -1,1 +1,1 @@
-Miscelaneous personal projects written in Java.
+Miscellaneous personal projects written in Java.
